@@ -1,0 +1,16 @@
+[project]
+name = "product-review-sentiment-analysis"
+version = "0.1.0"
+description = ""
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "gensim>=4.3.3",
+    "keras>=3.11.3",
+    "nltk>=3.9.2",
+    "numpy>=1.26.4",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.7.2",
+    "streamlit>=1.50.0",
+    "tensorflow>=2.18.1",
+]
