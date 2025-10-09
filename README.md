@@ -107,3 +107,6 @@ This project was created as part of my learning journey in Machine Learning and 
 
 ------------------------------------------------------------------------
 
+### URL for the app deployed on streamlit:
+https://appuct-review-sentiment-analysis-qmpcfn9wrotrpxq5xuxkpj.streamlit.app/
+
