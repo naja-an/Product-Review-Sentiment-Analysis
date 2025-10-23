@@ -15,7 +15,7 @@ This project was created as part of my learning journey in Machine Learning and 
 -  Step 1: Clone the Repository
 
     ``` bash
-    git clone https://github.com/yourusername/product-review-sentiment-analysis.git
+    git clone https://github.com/naja-an/Product-Review-Sentiment-Analysis.git
     cd product-review-sentiment-analysis
 
     ```
@@ -109,4 +109,5 @@ This project was created as part of my learning journey in Machine Learning and 
 
 ### URL for the app deployed on streamlit:
 https://appuct-review-sentiment-analysis-qmpcfn9wrotrpxq5xuxkpj.streamlit.app/
+
 
